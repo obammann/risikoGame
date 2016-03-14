@@ -1,0 +1,19 @@
+6
+7
+Arnor
+Grenzlande,Fornost,Rhudaur,Wetterberge,Alter Wald,Bockland,Suedhoehen
+4
+Duesterwald
+Carrock,Duesterwald,Tal des Anduin,Suedlicher Duesterwald
+7
+Rohan
+Minhiriath,Eregion,Dunland,Enedwaith,Fangorn,Westrohan,Pforte von Rohan
+8
+Rhovanion
+Moria,Schwertefelder,Lorien,Oedland,Emyn Muil,Braune Lande,Rhun-Berge,Totensuempfe
+11
+Gondor
+Druwaith Iaur,Andrast,Anfalas,Erech-Tal,Lamedon,Belfalas,Minas Tirith,Ithilien,Lebennin,Tolfalas,Sued-Ithilien
+5
+Mordor
+Udun-Tal,Schicksalsberg,Minas Morgul,Gorgoroth,Nurn

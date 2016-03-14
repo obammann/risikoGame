@@ -1,0 +1,210 @@
+1
+Alter Wald
+255,0,222
+4
+Bockland,Fornost,Wetterberge,Suedhoehen
+2
+Andrast
+247,241,75
+1
+Anfalas
+3
+Anfalas
+207,192,22
+3
+Andrast,Druwaith Iaur,Erech-Tal
+4
+Belfalas
+255,132,0
+4
+Lamedon,Tolfalas,Lebennin,Minhiriath
+5
+Bockland
+255,0,174
+3
+Suedhoehen,Alter Wald,Fornost
+6
+Braune Lande
+179,16,16
+5
+Rhun-Berge,Totensuempfe,Emyn Muil,Suedlicher Duesterwald,Duesterwald
+7
+Carrock
+0,255,90
+3
+Rhudaur,Tal des Anduin,Duesterwald
+8
+Druwaith Iaur
+228,255,0
+1
+Anfalas
+9
+Duesterwald
+0,255,54
+3
+Carrock,Tal des Anduin,Suedlicher Duesterwald
+10
+Dunland
+107,49,204
+3
+Enedwaith,Minhiriath,Eregion
+11
+Emyn Muil
+195,23,15
+5
+Totensuempfe,Oedland,Suedlicher Duesterwald,Tal des Anduin,Braune Lande
+12
+Enedwaith
+76,92,240
+3
+Dunland,Minhiriath,Pforte von Rohan
+13
+Erech-Tal
+251,254,1
+2
+Anfalas,Lamedon
+14
+Eregion
+72,0,255
+3
+Rhudaur,Dunland,Moria
+15
+Fangorn
+9,94,166
+3
+Pforte von Rohan,Oedland,Lorien
+16
+Fornost
+255,0,108
+4
+Bockland,Alter Wald,Wetterberge,Grenzlande
+17
+Gorgoroth
+206,40,242
+4
+Minas Morgul,Nurn,Schicksalsberg
+18
+Grenzlande
+255,0,0
+3
+Fornost,Wetterberge,Minhiriath
+19
+Ithilien
+204,255,0
+3
+Minas Tirith,Sued-Ithilien,Totensuempfe
+20
+Lamedon
+255,204,0
+3
+Erech-Tal,Belfalas,Lebennin
+21
+Lebennin
+237,250,98
+3
+Lamedon,Belfalas,Minas Tirith
+22
+Lorien
+147,14,14
+3
+Oedland,Fangorn,Schwertefelder
+23
+Minas Morgul
+198,0,255
+2
+Ithilien,Gorgoroth
+24
+Minas Tirith
+242,220,32
+3
+Lebennin,Ithilien,Pforte von Rohan
+25
+Minhiriath
+0,96,255
+5
+Suedhoehen,Dunland,Enedwaith,Belfalas,Grenzlande
+26
+Moria
+154,60,50
+2
+Eregion,Schwertefelder
+27
+Nurn
+165,9,193
+1
+Gorgoroth
+28
+Oedland
+129,19,19
+4
+Fangorn,Lorien,Emyn Muil,Pforte von Rohan
+29
+Pforte von Rohan
+4,40,195
+5
+Minas Tirith,Fangorn,Westrohan,Oedland,Enedwaith
+30
+Rhudaur
+255,0,54
+3
+Carrock,Wetterberge,Eregion
+31
+Rhun-Berge
+149,14,14
+1
+Braune Lande
+32
+Schicksalsberg
+255,0,252
+2
+Gorgoroth,Udun-Tal
+33
+Schwertefelder
+97,10,10
+3
+Moria,Lorien,Tal des Anduin
+34
+Sued-Ithilien
+200,214,39
+1
+Ithilien
+35
+Suedhoehen
+255,0,36
+4
+Bockland,Minhiriath,Alter Wald,Wetterberge
+36
+Suedlicher Duesterwald
+66,255,0
+4
+Tal des Anduin,Emyn Muil,Duesterwald,Braune Lande
+37
+Tal des Anduin
+0,255,18
+5
+Schwertefelder,Emyn Muil,Suedlicher Duesterwald,Carrock,Duesterwald
+38
+Tolfalas
+243,197,56
+1
+Belfalas
+39
+Totensuempfe
+181,33,33
+4
+Udun-Tal,Braune Lande,Emyn Muil,Ithilien
+40
+Udun-Tal
+233,56,235
+2
+Schicksalsberg,Totensuempfe
+41
+Westrohan
+0,162,255
+2
+Druwaith Iaur,Pforte von Rohan
+42
+Wetterberge
+212,7,147
+5
+Alter Wald,Fornost,Suedhoehen,Rhudaur,Grenzlande
